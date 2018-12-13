@@ -2,8 +2,8 @@
                                             Project Experience Certificates 
                                             
                                             
-1)Integrated program in Big Data and DataScience                                            
-2)Data Science with R
+##1)Integrated program in Big Data and DataScience                                            
+##2)Data Science with R
 3)Data Science with Python
 4)Machine Learning
 5)Artificial Neural Networks
